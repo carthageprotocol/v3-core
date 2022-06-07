@@ -1,20 +1,20 @@
 {
-  "name": "@uniswap/v3-core",
-  "description": "🦄 Core smart contracts of Uniswap V3",
+  "name": "@cndllabs/v3-core",
+  "description": "🦄 Core smart contracts of Carthage V3",
   "license": "BUSL-1.1",
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.0.1",
-  "homepage": "https://uniswap.org",
+  "version": "1.0.2",
+  "homepage": "https://candlelabs.org",
   "keywords": [
-    "uniswap",
-    "core",
+    "candle",
+    "carthage",
     "v3"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/uniswap-v3-core"
+    "url": "https://github.com/FortressDEX/v3-core"
   },
   "files": [
     "contracts/interfaces",
