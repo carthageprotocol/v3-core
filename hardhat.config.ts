@@ -38,6 +38,9 @@ export default {
     mumbai: {
       url: `https://polygon-mumbai.infura.io/v3/${process.env.INFURA_API_KEY}`,
     },
+    candle: {
+      url: `https://rpc.cndlchain.com`,
+    },
     polygon: {
       url: `https://polygon-mainnet.infura.io/v3/${process.env.INFURA_API_KEY}`,
     },
